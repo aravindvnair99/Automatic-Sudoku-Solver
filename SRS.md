@@ -8,7 +8,7 @@
 ### <div align=center>Version 1.0.0</div>
 <br/>
 
-## <div align=center> :boy: Aravind V. Nair<br/> :woman: Potti Priya<br/>:woman: Mirza Kaazima Ifrah :woman: Venigalla Prashanthi<br/></div>
+## <div align=center> :boy: Aravind V. Nair<br/> :woman: Potti Priya<br/>:woman: Mirza Kaazima Ifrah<br/> :woman: Venigalla Prashanthi<br/></div>
 <br/>
 
 <!-- Contents page -->
