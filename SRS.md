@@ -1,6 +1,6 @@
 <!-- Cover Page -->
 
-# <div align=center>:scroll: **Software Requirements Specification**</div>
+# <div align=center style="background-color:#ffd9b3; color:#663300">:scroll: **Software Requirements Specification**</div>
 #### <div align=center>for</div>
 # <div align=center>:male_detective: **Sudoku Solver** :female_detective:</div>
 <br/>
@@ -13,7 +13,7 @@
 
 <!-- Contents page -->
 
-# :pencil: **Contents** 
+# :pencil: **Contents**
 
 ### **1. Introduction**
 ```
@@ -41,7 +41,7 @@
 
 <!-- Introduction -->
 
-# **:one: Introduction**
+# **<span style="color:#006633; background-color:#4dffa6;padding:0px 7px">1</span> Introduction**
 
 ## **1.1 Purpose**
 
@@ -68,7 +68,7 @@ Sudoku Solver is a Progressive web app (PWA) developed in < >. It is a cross pla
 
 <!-- Overall Description -->
 
-# **:two: Overall Description**
+# **<span style="color:#006633; background-color:#4dffa6;padding:0px 7px">2</span> Overall Description**
 
 ## **2.1 User Needs**
 
@@ -79,7 +79,7 @@ Sudoku Solver is a Progressive web app (PWA) developed in < >. It is a cross pla
 
 <!-- System Featurres & Requirements -->
 
-# **:three: System Features & Requirements**
+# **<span style="color:#006633; background-color:#4dffa6;padding:0px 7px">3</span> System Features & Requirements**
 
 ## **3.1 Functional Requirements**
 * Giving sudoku (4x4 or 9x9) as an input:
